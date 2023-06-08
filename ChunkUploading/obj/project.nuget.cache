@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5HN+Obf06dG5mFU14LAexvfUd2JECSalHXNNxjG2lPtS+a3SSxEeXGgbwNh5aSBM4T3FNoE8AH5BThGe8ecqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sakshi.goratela\\source\\repos\\ChunkUploading\\ChunkUploading\\ChunkUploading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sakshi.goratela\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
